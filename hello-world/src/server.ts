@@ -1,4 +1,4 @@
-import http = require("http");
+import * as http from "http";
 
 const portNumber = 3000;
 
